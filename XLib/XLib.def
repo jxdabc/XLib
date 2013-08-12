@@ -1,0 +1,4 @@
+LIBRARY	"XLib"
+EXPORTS
+	SMCCreateInstanceImpl
+	SMCReleaseDLLImpl
